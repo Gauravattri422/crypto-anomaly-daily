@@ -1,0 +1,7 @@
+papermill
+nbformat
+nbclient
+pandas
+numpy
+scikit-learn
+matplotlib
